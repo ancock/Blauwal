@@ -74,6 +74,7 @@
         <p>Blauwale (Balaenoptera musculus) sind die größten Tiere der Erde und können eine Länge von bis zu 30 Metern erreichen. Sie ernähren sich hauptsächlich von Krill und kleinen Fischen und sind in allen Ozeanen der Welt anzutreffen.</p>
         <img src="blauwale.jpg" alt="Blauwal in seinem natürlichen Lebensraum">
     </section>
+<img src="https://media.istockphoto.com/photos/blue-whale-sea-animal-gm472300978-64066049" alt="Blue Whale Sea Animal" />
 
     <section id="klimawandel">
         <h2>Klimawandel und seine Auswirkungen</h2>
