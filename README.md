@@ -71,7 +71,7 @@
 
     <section id="lebensweise" class="intro">
         <h2>Lebensweise der Blauwale</h2>
-        <p>Blauwale (Balaenoptera musculus) sind die größten Tiere der Erde und können eine Länge von bis zu 30 Metern erreichen. Sie ernähren sich hauptsächlich von Krill und kleinen Fischen und sind in allen Ozeanen der Welt anzutreffen.</p>
+        <p>Blue whales (Balaenoptera musculus) are the largest animals on earth and can reach a length of up to 30 meters. They feed mainly on krill and small fish and can be found in all oceans of the world.</p>
         <!-- Bild als externe Datei eingebunden -->
         <img src="blauwal.jpg" alt="Blauwal in seinem natürlichen Lebensraum">
     </section>
